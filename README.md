@@ -4,7 +4,7 @@ exercicio ebac
 
 <h1>tec-teste-agil</h1>
 <h2>🔖 Sobre</h2>
-<p>Projeto utilizadondo tecnica de teste agil, linguagem Gherkin e utilizando visual studio code com a extensão Cucumber.</p>
+<p>Projeto utilizando tecnica de teste agil BDD, linguagem Gherkin com a ferramenta visual studio code e a extensão Cucumber.</p>
 ## 🚀 Tecnologias
 <div>
   
