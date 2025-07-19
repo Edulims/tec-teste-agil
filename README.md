@@ -7,7 +7,7 @@ exercicio ebac
 <p>Projeto utilizando tecnica de teste agil BDD, linguagem Gherkin com a ferramenta visual studio code e a extensão Cucumber.</p>
 ## 🚀 Tecnologias
 <div>
-  
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWbrNREIovPu3i1F1LjZs_We7Mq9OC86YU1A&s">
 </div>
 
 # Equipe
