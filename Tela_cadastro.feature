@@ -10,7 +10,7 @@
         Quando preencher o campo <e-mail> com formato invalido
         Então O sistema deve não permitir e exibir <mensagem> de erro
 
-        Examples:
+        Exemplos:
             | e-mail              | mensagem           |
             | edulima@email.cm    | "Formato invalido" |
             | myleanu!email.com   | "Formato invalido" |
@@ -20,7 +20,7 @@
         Quando preencher os dados obrigatorios com asteriscos = <vazio>
         Então sistema deve exibir mensagem de <alerta>
 
-        Examples:
+        Exemplos:
             | vazio   | alerta                    |
             | ""      | "Campo obrigatorio vazio" |
             | " "     | "Campo obrigatorio vazio" |
